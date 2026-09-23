@@ -9,10 +9,10 @@ This project delivers a comprehensive exploratory data analysis (EDA) and financ
 
 | Analysis Dimension | Core Finding | Financial / Business Impact |
 | :--- | :--- | :--- |
-| **Contract Type** | Month-to-month users churn at **42.71%** vs. 2.83% for 2-year contracts[cite: 2]. | Bleeding over **$120K in MRR ($1.4M+ annually)**[cite: 8]. |
-| **Tenure** | **47.44%** of churn occurs within the first 12 months[cite: 5]. | Highlights a critical onboarding and early-lifecycle failure. |
-| **Payment Method** | Electronic check users experience a **45.29%** churn rate[cite: 4]. | Manual billing friction significantly increases customer abandonment. |
-| **Product Bundling** | Churn drops from **44.92%** (3 services) down to **5.29%** (all 9 services)[cite: 9]. | Cross-product integration creates an effective "retention moat." |
+| **Contract Type** | Month-to-month users churn at **42.71%** vs. 2.83% for 2-year contracts. | Bleeding over **$120K in MRR ($1.4M+ annually)**. |
+| **Tenure** | **47.44%** of churn occurs within the first 12 months. | Highlights a critical onboarding and early-lifecycle failure. |
+| **Payment Method** | Electronic check users experience a **45.29%** churn rate. | Manual billing friction significantly increases customer abandonment. |
+| **Product Bundling** | Churn drops from **44.92%** (3 services) down to **5.29%** (all 9 services). | Cross-product integration creates an effective "retention moat." |
 
 ---
 
